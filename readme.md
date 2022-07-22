@@ -15,3 +15,13 @@
     进入控制台输入：nohup ./yaopool-proxy-linux & 启动服务
 
     其他设置同windows
+
+4. 设置路由器加密DNS 
+
+    启动瑶池代理客户端
+    
+    ![image](https://raw.githubusercontent.com/yaopool/yaopool-proxy/main/image/20220722092048.jpg)
+    
+    设置路由器
+    
+    ![image](https://raw.githubusercontent.com/yaopool/yaopool-proxy/main/image/20220722092018.jpg)
